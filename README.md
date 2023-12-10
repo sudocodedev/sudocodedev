@@ -1,21 +1,33 @@
 <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/room.gif" alt="room" width="100%" />
 
-## <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/mario.gif" alt="mario" height="30" width="30"/> Hey there!, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/block.gif" alt="block" height="30" width="30" />
+## <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/mario.gif" alt="mario" height="40" width="40"/> Hey there!, I'm Shiva <span></span> <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/block.gif" alt="block" height="30" width="30" />
 
 I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.
 
+<br>
+
 ### 🚀 Here's what I'm up to:
+
+---
 
 - Crafting elegant code and contributing to open-source projects ✨.
 - Exploring the realms of full-stack development, IoT & Machine Learning.
 - Sharing my insights and experiences through tech blogs.
 
+<br>
+
 ### 💡 I love diving into:
+
+---
 
 - Solving challenging problems and turning ideas into reality.
 - Collaborating with fellow developers and learning from diverse perspectives.
 
+<br>
+
 ### 🛠️ Languages & Tools I have used and Learned
+
+---
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45" />
@@ -31,5 +43,7 @@ I'm a passionate software engineer with a knack for building innovative solution
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 </p>
+
+<br>
 
 ### 🌟 Let's connect and collaborate! Find me on [LinkedIn/Twitter/Personal Blog/Other]. Let's build something awesome together!
