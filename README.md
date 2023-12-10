@@ -1,6 +1,6 @@
 <!--GIF-->
 
-## Hey there!, I'm Shiva <img src="https://giphy.com/embed/ZCGiYQPSdpcB2ks3pG" height="30"/> <img src="https://giphy.com/embed/Q7LHmoFwVP6Yc1swZs" height="30"/>
+## Hey there!, I'm Shiva
 
 I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.
 
