@@ -1,6 +1,6 @@
-<!--GIF-->
+<img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/room.gif" alt="room" width="100%" />
 
-## Hey there!, I'm Shiva
+## <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/mario.gif" alt="mario" height="30" width="30"/> Hey there!, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/block.gif" alt="block" height="30" width="30" />
 
 I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.
 
