@@ -1,8 +1,8 @@
 <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/Chill_Mario_Pixel_Jeff.gif" alt="room" width="100%" style="border-radius:8px;"/>
 
-## Hey there, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/cowboy.gif" alt="cowboy" height="40" width="40"/>
+# Hey there, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/cowboy.gif" alt="cowboy" height="50" width="50"/>
 
-<pre>I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.</pre>
+I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.
 
 <br>
 
@@ -37,12 +37,16 @@
 
 ### 📈 My Stats
 
-[![Shiva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-dark-mode-only)
-[![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only)
+[![Shiva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-dark-mode-only)
+[![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=compact)
+
+<br>
 
 ### 🌟 Let's connect and collaborate!
 
-#### <pre> Fine me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/pikachu.gif" alt="find-me" height="30" width="30" /> </pre>
+#### Find me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/pikachu.gif" alt="find-me" height="30" width="30" /> </pre>
 
 <p align="left">
     <a href="" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="45" width="45"/></a>
@@ -52,4 +56,8 @@
 </p>
 <br>
 
-### Let's build something awesome together! <img src="" alt="" height="" width="" />
+█░░ █▀▀ ▀█▀ ▀ █▀   █▄▄ █░█ █ █░░ █▀▄   █▀ █▀█ █▀▄▀█ █▀▀ ▀█▀ █░█ █ █▄░█ █▀▀   ▄▀█ █░█░█ █▀▀ █▀ █▀█ █▀▄▀█ █▀▀
+█▄▄ ██▄ ░█░ ░ ▄█   █▄█ █▄█ █ █▄▄ █▄▀   ▄█ █▄█ █░▀░█ ██▄ ░█░ █▀█ █ █░▀█ █▄█   █▀█ ▀▄▀▄▀ ██▄ ▄█ █▄█ █░▀░█ ██▄
+
+▀█▀ █▀█ █▀▀ █▀▀ ▀█▀ █░█ █▀▀ █▀█ █
+░█░ █▄█ █▄█ ██▄ ░█░ █▀█ ██▄ █▀▄ ▄
