@@ -1,8 +1,8 @@
-<img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/Chill_Mario_Pixel_Jeff.gif" alt="room" width="100%" />
+<img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/Chill_Mario_Pixel_Jeff.gif" alt="room" width="100%" style="border-radius:8px;"/>
 
-## <pre> Hey there, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/mario.gif" alt="cowboy" height="40" width="40"/> </pre>
+## Hey there, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/cowboy.gif" alt="cowboy" height="40" width="40"/>
 
-I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.
+<pre>I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.</pre>
 
 <br>
 
@@ -37,8 +37,8 @@ I'm a passionate software engineer with a knack for building innovative solution
 
 ### 📈 My Stats
 
-[![Shiva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-dark-mode-only)
-[![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only)
+[![Shiva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-dark-mode-only)
+[![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only)
 
 ### 🌟 Let's connect and collaborate!
 
@@ -52,4 +52,4 @@ I'm a passionate software engineer with a knack for building innovative solution
 </p>
 <br>
 
-### <pre> Let's build something awesome together! <img src="" alt="" height="" width="" /> </pre>
+### Let's build something awesome together! <img src="" alt="" height="" width="" />
