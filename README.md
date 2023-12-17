@@ -52,12 +52,12 @@ I'm a passionate software engineer with a knack for building innovative solution
 
 #### Find me on
 
-<p align="left">
-    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/website.gif" alt="my-website" height="45" width="45"/></a>
+<p align="center">
+    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/website.png" alt="my-website" height="45" width="45"/></a>
     <a href="#" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="45" width="45"/></a>
-    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/devto.gif" alt="devto" height="45" width="45"/></a>
-    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/instagram.gif"alt="instagram" height="45" width="45"/></a>
-    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/x.gif" alt="x" height="45" width="45"/></a>
+    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/devto.png" alt="devto" height="45" width="45"/></a>
+    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/instagram.png"alt="instagram" height="45" width="45"/></a>
+    <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/x.png" alt="x" height="45" width="45"/></a>
 </p>
 <br>
 
