@@ -44,14 +44,14 @@ Hey there, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/m
 <!-- [![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=donut) -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true" alt="Shiva's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=donut&theme=buefy&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/sudocodedev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=one_dark_pro&hide_border=true" alt="Shiva's github stats" /></a> | <a href="https://github.com/sudocodedev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 
 ### 🌟 Let's connect and collaborate!
 
-#### Find me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/block.gif" alt="find-me" height="40" width="40" />
+### Find me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/block.gif" alt="find-me" height="40" width="40" />
 
 <p align="center">
     <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/website.png" alt="my-website" height="45" width="45"/></a>
