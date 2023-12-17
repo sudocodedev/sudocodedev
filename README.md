@@ -48,7 +48,7 @@ I'm a passionate software engineer with a knack for building innovative solution
 
 <br>
 
-### 🌟 Let's connect and collaborate! <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/cat.gif" alt="find-me" height="50" width="50" />
+### 🌟 Let's connect and collaborate! <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/pikachu.gif" alt="find-me" height="50" width="50" />
 
 #### Find me on
 
