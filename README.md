@@ -46,6 +46,8 @@ I'm a passionate software engineer with a knack for building innovative solution
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=donut)
 
+<br>
+
 ### 🌟 Let's connect and collaborate!
 
 #### Find me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/pikachu.gif" alt="find-me" height="50" width="50" />
