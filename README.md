@@ -5,14 +5,13 @@ Hey there, I'm Shiva <img src="https://github.com/sudocodedev/sudocodedev/blob/m
 </h1>
 
 <p align="justify">
-I'm a passionate software engineer with a knack for building innovative solutions and exploring new technologies. My journey in the world of coding began with a love for problem-solving and has grown into a deep-rooted passion for creating robust applications that make an impact.
+    I'm a self-taught passionate Web Developer from India 🇮🇳.
 </p>
-
 <br>
 
 ### 🚀 Here's what I'm up to:
 
-- Crafting elegant code and contributing to open-source projects ✨.
+- Love contributing to open-source projects ✨.
 - Exploring the realms of full-stack development, IoT & Machine Learning.
 - Sharing my insights and experiences through tech blogs.
 - Solving challenging problems and turning ideas into reality.
@@ -41,16 +40,18 @@ I'm a passionate software engineer with a knack for building innovative solution
 
 ### 📈 My Stats
 
-[![Shiva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-dark-mode-only)
-[![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only)
+<!-- [![Shiva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-dark-mode-only) -->
+<!-- [![Shiva's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/sudocodedev/github-readme-stats#gh-light-mode-only) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=donut) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=donut)
+| <a href="https://github.com/sudocodedev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudocodedev&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true" alt="Shiva's github stats" /></a> | <a href="https://github.com/sudocodedev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodedev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 
 ### 🌟 Let's connect and collaborate!
 
-#### Find me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/pikachu.gif" alt="find-me" height="50" width="50" />
+#### Find me on <img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/block.gif" alt="find-me" height="40" width="40" />
 
 <p align="center">
     <a href="#" style="text-decoration: none;"><img src="https://github.com/sudocodedev/sudocodedev/blob/main/GIFs/website.png" alt="my-website" height="45" width="45"/></a>
